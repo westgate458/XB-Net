@@ -66,6 +66,7 @@ A full list of the conda enviroment packages can be found in `full_env.txt`, as 
           └── sample_pairs.png (Randomly picked frames for visualization)
   ```  
 - Examples for sample_pairs.png (DIC-C2DH-HeLa)
+  ![sample_pairs](/pics/sample_pairs.png)
 - **Note**: only scripts for GT+ST data configuration is included. Others can be obtained with minor modifications.
 
 ## References:
