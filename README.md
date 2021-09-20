@@ -10,7 +10,7 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 - [x] Have a cup of coffee
 
 ### For CTC participation: 
-- [ ] Scripts for image pre-processing and tertiary training targets
+- [x] Scripts for image pre-processing and tertiary training targets
 - [ ] Network implementation 
 - [ ] Scripts for training 6 data configurations
 - [ ] Scripts for inference and tracking
