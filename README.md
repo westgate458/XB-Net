@@ -50,6 +50,7 @@ A full list of the conda enviroment packages can be found in `full_env.txt`, as 
 - Under current dir, run python scripts for 2D or 3D datasets by 
   ```
   python imgPre_2D_GT+ST.py DIC-C2DH-HeLa
+  python imgPre_3D_GT+ST.py Fluo-N3DH-CHO
   ```
 - Normalized cell images and tertiary training targets will be written under `datasets\pre\GT+ST\[dataset_name]`
   ```
