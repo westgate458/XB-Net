@@ -47,11 +47,11 @@ A full list of the conda enviroment packages can be found in `full_env.txt`, as 
   │       └── 02_GT       (GT annotations for video sequence 02)
   └──pre
   ```    
-- Under current dir, run python scripts for 2D or 3D datasets by `datasets\pre\[dataset_name]`
+- Under current dir, run python scripts for 2D or 3D datasets by 
   ```
   python imgPre_2D_GT+ST.py DIC-C2DH-HeLa
   ```
-- Normalized cell images and tertiary training targets will be written under
+- Normalized cell images and tertiary training targets will be written under `datasets\pre\GT+ST\[dataset_name]`
   ```
   datasets
   ├──raw  
