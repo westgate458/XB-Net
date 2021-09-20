@@ -30,6 +30,7 @@ For information or report bugs, please email Tianqi Guo (tqguo246@gmail.com)
 - PyTorch version: 1.7.0
 - Additional dependencies: imageio(2.8.0), numpy(1.18.4), scipy(1.4.1), pillow(8.1.0), libtiff(4.2.0)
 
+A full list of the conda enviroment packages can be found in `full_env.txt`, as output by `conda list --json`.
 
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
