@@ -8,10 +8,10 @@ it should have the following folder structure
 ```
 raw
 └── DIC-C2DH-HeLa   (Name of the dataset)
-    ├── 01          (raw images for video sequence 01)
+    ├── 01          (Raw images for video sequence 01)
     ├── 01_ST       (ST annotations for video sequence 01)
     ├── 01_GT       (GT annotations for video sequence 01)
-    ├── 02          (raw images for video sequence 02)
+    ├── 02          (Raw images for video sequence 02)
     ├── 02_ST       (ST annotations for video sequence 02)
     └── 02_GT       (GT annotations for video sequence 02)
 ```    
