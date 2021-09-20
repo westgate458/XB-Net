@@ -4,7 +4,7 @@
 This is a place-holder repository for future publication of the network and weights.
 More contents will be available soon.
 
-For information or report bugs, please email Tianqi Guo (tqguo246@gmail.com)
+For information or to report bugs, please email [Tianqi Guo](https://www.linkedin.com/in/tianqi-guo-purdue/) via tqguo246@gmail.com
 
 ### Tasks to complete:
 - [x] Have a cup of coffee
