@@ -33,6 +33,6 @@ For information or report bugs, please email Tianqi Guo (tqguo246@gmail.com)
 
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
-2. Guo, T., Ardekani, A. M., & Vlachos, P. P. (2019). Microscale, scanning defocusing volumetric particle-tracking velocimetry. Experiments in Fluids, 60(6), 89.
+2. Guo, T., Ardekani, A. M., & Vlachos, P. P. (2019). Microscale, scanning defocusing volumetric particle-tracking velocimetry. Experiments in Fluids, 60(6), 89. Link [https://link.springer.com/article/10.1007/s00348-019-2731-4]
 3. Jun, B. H., Guo, T., Libring, S., Chanda, M. K., Paez, J. S., Shinde, A., ... & Solorio, L. (2020). Fibronectin-expressing mesenchymal tumor cells promote breast cancer metastasis. Cancers, 12(9), 2553.
 4. Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Springer, Cham.
