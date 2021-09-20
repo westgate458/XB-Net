@@ -1,0 +1,3332 @@
+[
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "main",
+    "channel": "defaults",
+    "dist_name": "_libgcc_mutex-0.1-main",
+    "name": "_libgcc_mutex",
+    "platform": null,
+    "version": "0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "alabaster-0.7.12-py37_0",
+    "name": "alabaster",
+    "platform": null,
+    "version": "0.7.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "anaconda-2021.04-py37_0",
+    "name": "anaconda",
+    "platform": null,
+    "version": "2021.04"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "anaconda-client-1.7.2-py37_0",
+    "name": "anaconda-client",
+    "platform": null,
+    "version": "1.7.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "anaconda-project-0.9.1-pyhd3eb1b0_1",
+    "name": "anaconda-project",
+    "platform": null,
+    "version": "0.9.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "anyio-2.2.0-py37h06a4308_1",
+    "name": "anyio",
+    "platform": null,
+    "version": "2.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "appdirs-1.4.4-py_0",
+    "name": "appdirs",
+    "platform": null,
+    "version": "1.4.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "argh-0.26.2-py37_0",
+    "name": "argh",
+    "platform": null,
+    "version": "0.26.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "argon2-cffi-20.1.0-py37h27cfd23_1",
+    "name": "argon2-cffi",
+    "platform": null,
+    "version": "20.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "asn1crypto-1.4.0-py_0",
+    "name": "asn1crypto",
+    "platform": null,
+    "version": "1.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "astroid-2.5-py37h06a4308_1",
+    "name": "astroid",
+    "platform": null,
+    "version": "2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "astropy-4.2.1-py37h27cfd23_1",
+    "name": "astropy",
+    "platform": null,
+    "version": "4.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h28b3542_0",
+    "channel": "defaults",
+    "dist_name": "async_generator-1.10-py37h28b3542_0",
+    "name": "async_generator",
+    "platform": null,
+    "version": "1.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "atomicwrites-1.4.0-py_0",
+    "name": "atomicwrites",
+    "platform": null,
+    "version": "1.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "attrs-20.3.0-pyhd3eb1b0_0",
+    "name": "attrs",
+    "platform": null,
+    "version": "20.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "autopep8-1.5.6-pyhd3eb1b0_0",
+    "name": "autopep8",
+    "platform": null,
+    "version": "1.5.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "babel-2.9.0-pyhd3eb1b0_0",
+    "name": "babel",
+    "platform": null,
+    "version": "2.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "backcall-0.2.0-pyhd3eb1b0_0",
+    "name": "backcall",
+    "platform": null,
+    "version": "0.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "pyhd3eb1b0_2",
+    "channel": "defaults",
+    "dist_name": "backports-1.0-pyhd3eb1b0_2",
+    "name": "backports",
+    "platform": null,
+    "version": "1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 3,
+    "build_string": "pyhd3eb1b0_3",
+    "channel": "defaults",
+    "dist_name": "backports.shutil_get_terminal_size-1.0.0-pyhd3eb1b0_3",
+    "name": "backports.shutil_get_terminal_size",
+    "platform": null,
+    "version": "1.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyha847dfd_0",
+    "channel": "defaults",
+    "dist_name": "beautifulsoup4-4.9.3-pyha847dfd_0",
+    "name": "beautifulsoup4",
+    "platform": null,
+    "version": "4.9.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "bitarray-1.9.2-py37h27cfd23_1",
+    "name": "bitarray",
+    "platform": null,
+    "version": "1.9.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "bkcharts-0.2-py37_0",
+    "name": "bkcharts",
+    "platform": null,
+    "version": "0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "black-19.10b0-py_0",
+    "name": "black",
+    "platform": null,
+    "version": "19.10b0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "mkl",
+    "channel": "defaults",
+    "dist_name": "blas-1.0-mkl",
+    "name": "blas",
+    "platform": null,
+    "version": "1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "bleach-3.3.0-pyhd3eb1b0_0",
+    "name": "bleach",
+    "platform": null,
+    "version": "3.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h8c45485_0",
+    "channel": "defaults",
+    "dist_name": "blosc-1.21.0-h8c45485_0",
+    "name": "blosc",
+    "platform": null,
+    "version": "1.21.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "bokeh-2.3.1-py37h06a4308_0",
+    "name": "bokeh",
+    "platform": null,
+    "version": "2.3.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "boto-2.49.0-py37_0",
+    "name": "boto",
+    "platform": null,
+    "version": "2.49.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37heb32a55_1",
+    "channel": "defaults",
+    "dist_name": "bottleneck-1.3.2-py37heb32a55_1",
+    "name": "bottleneck",
+    "platform": null,
+    "version": "1.3.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 1003,
+    "build_string": "py37h27cfd23_1003",
+    "channel": "defaults",
+    "dist_name": "brotlipy-0.7.0-py37h27cfd23_1003",
+    "name": "brotlipy",
+    "platform": null,
+    "version": "0.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "bzip2-1.0.8-h7b6447c_0",
+    "name": "bzip2",
+    "platform": null,
+    "version": "1.0.8"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "c-ares-1.17.1-h27cfd23_0",
+    "name": "c-ares",
+    "platform": null,
+    "version": "1.17.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "ca-certificates-2021.4.13-h06a4308_1",
+    "name": "ca-certificates",
+    "platform": null,
+    "version": "2021.4.13"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "hf32fb01_1",
+    "channel": "defaults",
+    "dist_name": "cairo-1.16.0-hf32fb01_1",
+    "name": "cairo",
+    "platform": null,
+    "version": "1.16.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "certifi-2020.12.5-py37h06a4308_0",
+    "name": "certifi",
+    "platform": null,
+    "version": "2020.12.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h261ae71_0",
+    "channel": "defaults",
+    "dist_name": "cffi-1.14.5-py37h261ae71_0",
+    "name": "cffi",
+    "platform": null,
+    "version": "1.14.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 1003,
+    "build_string": "py37h06a4308_1003",
+    "channel": "defaults",
+    "dist_name": "chardet-4.0.0-py37h06a4308_1003",
+    "name": "chardet",
+    "platform": null,
+    "version": "4.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "click-7.1.2-pyhd3eb1b0_0",
+    "name": "click",
+    "platform": null,
+    "version": "7.1.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "cloudpickle-1.6.0-py_0",
+    "name": "cloudpickle",
+    "platform": null,
+    "version": "1.6.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "clyent-1.2.2-py37_1",
+    "name": "clyent",
+    "platform": null,
+    "version": "1.2.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "colorama-0.4.4-pyhd3eb1b0_0",
+    "name": "colorama",
+    "platform": null,
+    "version": "0.4.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "contextlib2-0.6.0.post1-py_0",
+    "name": "contextlib2",
+    "platform": null,
+    "version": "0.6.0.post1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37hd23ed53_0",
+    "channel": "defaults",
+    "dist_name": "cryptography-3.4.7-py37hd23ed53_0",
+    "name": "cryptography",
+    "platform": null,
+    "version": "3.4.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h6bb024c_0",
+    "channel": "defaults",
+    "dist_name": "cudatoolkit-11.0.221-h6bb024c_0",
+    "name": "cudatoolkit",
+    "platform": null,
+    "version": "11.0.221"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "hbc83047_1",
+    "channel": "defaults",
+    "dist_name": "curl-7.71.1-hbc83047_1",
+    "name": "curl",
+    "platform": null,
+    "version": "7.71.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "cycler-0.10.0-py37_0",
+    "name": "cycler",
+    "platform": null,
+    "version": "0.10.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h2531618_0",
+    "channel": "defaults",
+    "dist_name": "cython-0.29.23-py37h2531618_0",
+    "name": "cython",
+    "platform": null,
+    "version": "0.29.23"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "cytoolz-0.11.0-py37h7b6447c_0",
+    "name": "cytoolz",
+    "platform": null,
+    "version": "0.11.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "dask-2021.4.0-pyhd3eb1b0_0",
+    "name": "dask",
+    "platform": null,
+    "version": "2021.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "dask-core-2021.4.0-pyhd3eb1b0_0",
+    "name": "dask-core",
+    "platform": null,
+    "version": "2021.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hb2f20db_0",
+    "channel": "defaults",
+    "dist_name": "dbus-1.13.18-hb2f20db_0",
+    "name": "dbus",
+    "platform": null,
+    "version": "1.13.18"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "decorator-5.0.6-pyhd3eb1b0_0",
+    "name": "decorator",
+    "platform": null,
+    "version": "5.0.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "defusedxml-0.7.1-pyhd3eb1b0_0",
+    "name": "defusedxml",
+    "platform": null,
+    "version": "0.7.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "diff-match-patch-20200713-py_0",
+    "name": "diff-match-patch",
+    "platform": null,
+    "version": "20200713"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "distributed-2021.4.0-py37h06a4308_0",
+    "name": "distributed",
+    "platform": null,
+    "version": "2021.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "docutils-0.17-py37h06a4308_1",
+    "name": "docutils",
+    "platform": null,
+    "version": "0.17"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "entrypoints-0.3-py37_0",
+    "name": "entrypoints",
+    "platform": null,
+    "version": "0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1001,
+    "build_string": "py_1001",
+    "channel": "defaults",
+    "dist_name": "et_xmlfile-1.0.1-py_1001",
+    "name": "et_xmlfile",
+    "platform": null,
+    "version": "1.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h2531618_2",
+    "channel": "defaults",
+    "dist_name": "expat-2.3.0-h2531618_2",
+    "name": "expat",
+    "platform": null,
+    "version": "2.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "fastcache-1.1.0-py37h7b6447c_0",
+    "name": "fastcache",
+    "platform": null,
+    "version": "1.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "filelock-3.0.12-pyhd3eb1b0_1",
+    "name": "filelock",
+    "platform": null,
+    "version": "3.0.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "flake8-3.9.0-pyhd3eb1b0_0",
+    "name": "flake8",
+    "platform": null,
+    "version": "3.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "flask-1.1.2-pyhd3eb1b0_0",
+    "name": "flask",
+    "platform": null,
+    "version": "1.1.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h6c09931_0",
+    "channel": "defaults",
+    "dist_name": "fontconfig-2.13.1-h6c09931_0",
+    "name": "fontconfig",
+    "platform": null,
+    "version": "2.13.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h5ab3b9f_0",
+    "channel": "defaults",
+    "dist_name": "freetype-2.10.4-h5ab3b9f_0",
+    "name": "freetype",
+    "platform": null,
+    "version": "2.10.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "fribidi-1.0.10-h7b6447c_0",
+    "name": "fribidi",
+    "platform": null,
+    "version": "1.0.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "fsspec-0.9.0-pyhd3eb1b0_0",
+    "name": "fsspec",
+    "platform": null,
+    "version": "0.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "future-0.18.2-py37_1",
+    "name": "future",
+    "platform": null,
+    "version": "0.18.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "haa9412d_0",
+    "channel": "defaults",
+    "dist_name": "get_terminal_size-1.0.0-haa9412d_0",
+    "name": "get_terminal_size",
+    "platform": null,
+    "version": "1.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "gevent-21.1.2-py37h27cfd23_1",
+    "name": "gevent",
+    "platform": null,
+    "version": "21.1.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h36276a3_0",
+    "channel": "defaults",
+    "dist_name": "glib-2.68.1-h36276a3_0",
+    "name": "glib",
+    "platform": null,
+    "version": "2.68.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "glob2-0.7-pyhd3eb1b0_0",
+    "name": "glob2",
+    "platform": null,
+    "version": "0.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h2531618_2",
+    "channel": "defaults",
+    "dist_name": "gmp-6.2.1-h2531618_2",
+    "name": "gmp",
+    "platform": null,
+    "version": "6.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h10f8cd9_2",
+    "channel": "defaults",
+    "dist_name": "gmpy2-2.0.8-py37h10f8cd9_2",
+    "name": "gmpy2",
+    "platform": null,
+    "version": "2.0.8"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h23475e2_0",
+    "channel": "defaults",
+    "dist_name": "graphite2-1.3.14-h23475e2_0",
+    "name": "graphite2",
+    "platform": null,
+    "version": "1.3.14"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h2531618_2",
+    "channel": "defaults",
+    "dist_name": "greenlet-1.0.0-py37h2531618_2",
+    "name": "greenlet",
+    "platform": null,
+    "version": "1.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h8213a91_2",
+    "channel": "defaults",
+    "dist_name": "gst-plugins-base-1.14.0-h8213a91_2",
+    "name": "gst-plugins-base",
+    "platform": null,
+    "version": "1.14.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h28cd5cc_2",
+    "channel": "defaults",
+    "dist_name": "gstreamer-1.14.0-h28cd5cc_2",
+    "name": "gstreamer",
+    "platform": null,
+    "version": "1.14.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h7918eee_0",
+    "channel": "defaults",
+    "dist_name": "h5py-2.10.0-py37h7918eee_0",
+    "name": "h5py",
+    "platform": null,
+    "version": "2.10.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h6f93f22_0",
+    "channel": "defaults",
+    "dist_name": "harfbuzz-2.8.0-h6f93f22_0",
+    "name": "harfbuzz",
+    "platform": null,
+    "version": "2.8.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hb1b8bf9_0",
+    "channel": "defaults",
+    "dist_name": "hdf5-1.10.4-hb1b8bf9_0",
+    "name": "hdf5",
+    "platform": null,
+    "version": "1.10.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "heapdict-1.0.1-py_0",
+    "name": "heapdict",
+    "platform": null,
+    "version": "1.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "html5lib-1.1-py_0",
+    "name": "html5lib",
+    "platform": null,
+    "version": "1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 3,
+    "build_string": "he6710b0_3",
+    "channel": "defaults",
+    "dist_name": "icu-58.2-he6710b0_3",
+    "name": "icu",
+    "platform": null,
+    "version": "58.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "idna-2.10-pyhd3eb1b0_0",
+    "name": "idna",
+    "platform": null,
+    "version": "2.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "imageio-2.9.0-pyhd3eb1b0_0",
+    "name": "imageio",
+    "platform": null,
+    "version": "2.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "imagesize-1.2.0-pyhd3eb1b0_0",
+    "name": "imagesize",
+    "platform": null,
+    "version": "1.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "importlib-metadata-3.10.0-py37h06a4308_0",
+    "name": "importlib-metadata",
+    "platform": null,
+    "version": "3.10.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "importlib_metadata-3.10.0-hd3eb1b0_0",
+    "name": "importlib_metadata",
+    "platform": null,
+    "version": "3.10.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "iniconfig-1.1.1-pyhd3eb1b0_0",
+    "name": "iniconfig",
+    "platform": null,
+    "version": "1.1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 610,
+    "build_string": "h06a4308_610",
+    "channel": "defaults",
+    "dist_name": "intel-openmp-2021.2.0-h06a4308_610",
+    "name": "intel-openmp",
+    "platform": null,
+    "version": "2021.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "intervaltree-3.1.0-py_0",
+    "name": "intervaltree",
+    "platform": null,
+    "version": "3.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h5ca1d4c_0",
+    "channel": "defaults",
+    "dist_name": "ipykernel-5.3.4-py37h5ca1d4c_0",
+    "name": "ipykernel",
+    "platform": null,
+    "version": "5.3.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37hb070fc8_0",
+    "channel": "defaults",
+    "dist_name": "ipython-7.22.0-py37hb070fc8_0",
+    "name": "ipython",
+    "platform": null,
+    "version": "7.22.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "ipython_genutils-0.2.0-pyhd3eb1b0_1",
+    "name": "ipython_genutils",
+    "platform": null,
+    "version": "0.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "ipywidgets-7.6.3-pyhd3eb1b0_1",
+    "name": "ipywidgets",
+    "platform": null,
+    "version": "7.6.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "isort-5.8.0-pyhd3eb1b0_0",
+    "name": "isort",
+    "platform": null,
+    "version": "5.8.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "itsdangerous-1.1.0-py37_0",
+    "name": "itsdangerous",
+    "platform": null,
+    "version": "1.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdba287a_0",
+    "channel": "defaults",
+    "dist_name": "jbig-2.1-hdba287a_0",
+    "name": "jbig",
+    "platform": null,
+    "version": "2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "jdcal-1.4.1-py_0",
+    "name": "jdcal",
+    "platform": null,
+    "version": "1.4.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "jedi-0.17.2-py37h06a4308_1",
+    "name": "jedi",
+    "platform": null,
+    "version": "0.17.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jeepney-0.6.0-pyhd3eb1b0_0",
+    "name": "jeepney",
+    "platform": null,
+    "version": "0.6.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jinja2-2.11.3-pyhd3eb1b0_0",
+    "name": "jinja2",
+    "platform": null,
+    "version": "2.11.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "joblib-1.0.1-pyhd3eb1b0_0",
+    "name": "joblib",
+    "platform": null,
+    "version": "1.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h024ee3a_2",
+    "channel": "defaults",
+    "dist_name": "jpeg-9b-h024ee3a_2",
+    "name": "jpeg",
+    "platform": null,
+    "version": "9b"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "json5-0.9.5-py_0",
+    "name": "json5",
+    "platform": null,
+    "version": "0.9.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py_2",
+    "channel": "defaults",
+    "dist_name": "jsonschema-3.2.0-py_2",
+    "name": "jsonschema",
+    "platform": null,
+    "version": "3.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 7,
+    "build_string": "py37_7",
+    "channel": "defaults",
+    "dist_name": "jupyter-1.0.0-py37_7",
+    "name": "jupyter",
+    "platform": null,
+    "version": "1.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jupyter-packaging-0.7.12-pyhd3eb1b0_0",
+    "name": "jupyter-packaging",
+    "platform": null,
+    "version": "0.7.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jupyter_client-6.1.12-pyhd3eb1b0_0",
+    "name": "jupyter_client",
+    "platform": null,
+    "version": "6.1.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jupyter_console-6.4.0-pyhd3eb1b0_0",
+    "name": "jupyter_console",
+    "platform": null,
+    "version": "6.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "jupyter_core-4.7.1-py37h06a4308_0",
+    "name": "jupyter_core",
+    "platform": null,
+    "version": "4.7.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "jupyter_server-1.4.1-py37h06a4308_0",
+    "name": "jupyter_server",
+    "platform": null,
+    "version": "1.4.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "jupyterlab-3.0.14-pyhd3eb1b0_1",
+    "name": "jupyterlab",
+    "platform": null,
+    "version": "3.0.14"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "jupyterlab_pygments-0.1.2-py_0",
+    "name": "jupyterlab_pygments",
+    "platform": null,
+    "version": "0.1.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "jupyterlab_server-2.4.0-pyhd3eb1b0_0",
+    "name": "jupyterlab_server",
+    "platform": null,
+    "version": "2.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "jupyterlab_widgets-1.0.0-pyhd3eb1b0_1",
+    "name": "jupyterlab_widgets",
+    "platform": null,
+    "version": "1.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "keyring-22.3.0-py37h06a4308_0",
+    "name": "keyring",
+    "platform": null,
+    "version": "22.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h2531618_0",
+    "channel": "defaults",
+    "dist_name": "kiwisolver-1.3.1-py37h2531618_0",
+    "name": "kiwisolver",
+    "platform": null,
+    "version": "1.3.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h173b8e3_0",
+    "channel": "defaults",
+    "dist_name": "krb5-1.18.2-h173b8e3_0",
+    "name": "krb5",
+    "platform": null,
+    "version": "1.18.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "lazy-object-proxy-1.6.0-py37h27cfd23_0",
+    "name": "lazy-object-proxy",
+    "platform": null,
+    "version": "1.6.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h3be6417_0",
+    "channel": "defaults",
+    "dist_name": "lcms2-2.12-h3be6417_0",
+    "name": "lcms2",
+    "platform": null,
+    "version": "2.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 7,
+    "build_string": "h53a641e_7",
+    "channel": "defaults",
+    "dist_name": "ld_impl_linux-64-2.33.1-h53a641e_7",
+    "name": "ld_impl_linux-64",
+    "platform": null,
+    "version": "2.33.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h62408e4_0",
+    "channel": "defaults",
+    "dist_name": "libarchive-3.4.2-h62408e4_0",
+    "name": "libarchive",
+    "platform": null,
+    "version": "3.4.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h20c2e04_1",
+    "channel": "defaults",
+    "dist_name": "libcurl-7.71.1-h20c2e04_1",
+    "name": "libcurl",
+    "platform": null,
+    "version": "7.71.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "libedit-3.1.20210216-h27cfd23_1",
+    "name": "libedit",
+    "platform": null,
+    "version": "3.1.20210216"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "libev-4.33-h7b6447c_0",
+    "name": "libev",
+    "platform": null,
+    "version": "4.33"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "he6710b0_2",
+    "channel": "defaults",
+    "dist_name": "libffi-3.3-he6710b0_2",
+    "name": "libffi",
+    "platform": null,
+    "version": "3.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdf63c60_0",
+    "channel": "defaults",
+    "dist_name": "libgcc-ng-9.1.0-hdf63c60_0",
+    "name": "libgcc-ng",
+    "platform": null,
+    "version": "9.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdf63c60_0",
+    "channel": "defaults",
+    "dist_name": "libgfortran-ng-7.3.0-hdf63c60_0",
+    "name": "libgfortran-ng",
+    "platform": null,
+    "version": "7.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "he6710b0_0",
+    "channel": "defaults",
+    "dist_name": "liblief-0.10.1-he6710b0_0",
+    "name": "liblief",
+    "platform": null,
+    "version": "0.10.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 5,
+    "build_string": "hbcb73fb_5",
+    "channel": "defaults",
+    "dist_name": "libllvm10-10.0.1-hbcb73fb_5",
+    "name": "libllvm10",
+    "platform": null,
+    "version": "10.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hbc83047_0",
+    "channel": "defaults",
+    "dist_name": "libpng-1.6.37-hbc83047_0",
+    "name": "libpng",
+    "platform": null,
+    "version": "1.6.37"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "libsodium-1.0.18-h7b6447c_0",
+    "name": "libsodium",
+    "platform": null,
+    "version": "1.0.18"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h2531618_0",
+    "channel": "defaults",
+    "dist_name": "libspatialindex-1.9.3-h2531618_0",
+    "name": "libspatialindex",
+    "platform": null,
+    "version": "1.9.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h1ba5d50_1",
+    "channel": "defaults",
+    "dist_name": "libssh2-1.9.0-h1ba5d50_1",
+    "name": "libssh2",
+    "platform": null,
+    "version": "1.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdf63c60_0",
+    "channel": "defaults",
+    "dist_name": "libstdcxx-ng-9.1.0-hdf63c60_0",
+    "name": "libstdcxx-ng",
+    "platform": null,
+    "version": "9.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h85742a9_0",
+    "channel": "defaults",
+    "dist_name": "libtiff-4.2.0-h85742a9_0",
+    "name": "libtiff",
+    "platform": null,
+    "version": "4.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1005,
+    "build_string": "h7b6447c_1005",
+    "channel": "defaults",
+    "dist_name": "libtool-2.4.6-h7b6447c_1005",
+    "name": "libtool",
+    "platform": null,
+    "version": "2.4.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h1bed415_2",
+    "channel": "defaults",
+    "dist_name": "libuuid-1.0.3-h1bed415_2",
+    "name": "libuuid",
+    "platform": null,
+    "version": "1.0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "libuv-1.40.0-h7b6447c_0",
+    "name": "libuv",
+    "platform": null,
+    "version": "1.40.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "libwebp-base-1.2.0-h27cfd23_0",
+    "name": "libwebp-base",
+    "platform": null,
+    "version": "1.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "libxcb-1.14-h7b6447c_0",
+    "name": "libxcb",
+    "platform": null,
+    "version": "1.14"
+  },
+  {
+    "base_url": null,
+    "build_number": 3,
+    "build_string": "hb55368b_3",
+    "channel": "defaults",
+    "dist_name": "libxml2-2.9.10-hb55368b_3",
+    "name": "libxml2",
+    "platform": null,
+    "version": "2.9.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hc22bd24_0",
+    "channel": "defaults",
+    "dist_name": "libxslt-1.1.34-hc22bd24_0",
+    "name": "libxslt",
+    "platform": null,
+    "version": "1.1.34"
+  },
+  {
+    "base_url": null,
+    "build_number": 4,
+    "build_string": "py37h612dafd_4",
+    "channel": "defaults",
+    "dist_name": "llvmlite-0.36.0-py37h612dafd_4",
+    "name": "llvmlite",
+    "platform": null,
+    "version": "0.36.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "locket-0.2.1-py37h06a4308_1",
+    "name": "locket",
+    "platform": null,
+    "version": "0.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h9120a33_0",
+    "channel": "defaults",
+    "dist_name": "lxml-4.6.3-py37h9120a33_0",
+    "name": "lxml",
+    "platform": null,
+    "version": "4.6.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h2531618_0",
+    "channel": "defaults",
+    "dist_name": "lz4-c-1.9.3-h2531618_0",
+    "name": "lz4-c",
+    "platform": null,
+    "version": "1.9.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "h7b6447c_2",
+    "channel": "defaults",
+    "dist_name": "lzo-2.10-h7b6447c_2",
+    "name": "lzo",
+    "platform": null,
+    "version": "2.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h14c3975_1",
+    "channel": "defaults",
+    "dist_name": "markupsafe-1.1.1-py37h14c3975_1",
+    "name": "markupsafe",
+    "platform": null,
+    "version": "1.1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "matplotlib-3.3.4-py37h06a4308_0",
+    "name": "matplotlib",
+    "platform": null,
+    "version": "3.3.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h62a2d02_0",
+    "channel": "defaults",
+    "dist_name": "matplotlib-base-3.3.4-py37h62a2d02_0",
+    "name": "matplotlib-base",
+    "platform": null,
+    "version": "3.3.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "mccabe-0.6.1-py37_1",
+    "name": "mccabe",
+    "platform": null,
+    "version": "0.6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1001,
+    "build_string": "py37h14c3975_1001",
+    "channel": "defaults",
+    "dist_name": "mistune-0.8.4-py37h14c3975_1001",
+    "name": "mistune",
+    "platform": null,
+    "version": "0.8.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 296,
+    "build_string": "h06a4308_296",
+    "channel": "defaults",
+    "dist_name": "mkl-2021.2.0-h06a4308_296",
+    "name": "mkl",
+    "platform": null,
+    "version": "2021.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "mkl-service-2.3.0-py37h27cfd23_1",
+    "name": "mkl-service",
+    "platform": null,
+    "version": "2.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h42c9631_2",
+    "channel": "defaults",
+    "dist_name": "mkl_fft-1.3.0-py37h42c9631_2",
+    "name": "mkl_fft",
+    "platform": null,
+    "version": "1.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37ha9443f7_2",
+    "channel": "defaults",
+    "dist_name": "mkl_random-1.2.1-py37ha9443f7_2",
+    "name": "mkl_random",
+    "platform": null,
+    "version": "1.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "mock-4.0.3-pyhd3eb1b0_0",
+    "name": "mock",
+    "platform": null,
+    "version": "4.0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "more-itertools-8.7.0-pyhd3eb1b0_0",
+    "name": "more-itertools",
+    "platform": null,
+    "version": "8.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h10f8cd9_1",
+    "channel": "defaults",
+    "dist_name": "mpc-1.1.0-h10f8cd9_1",
+    "name": "mpc",
+    "platform": null,
+    "version": "1.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "hb69a4c5_1",
+    "channel": "defaults",
+    "dist_name": "mpfr-4.0.2-hb69a4c5_1",
+    "name": "mpfr",
+    "platform": null,
+    "version": "4.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "mpmath-1.2.1-py37h06a4308_0",
+    "name": "mpmath",
+    "platform": null,
+    "version": "1.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37hff7bd54_1",
+    "channel": "defaults",
+    "dist_name": "msgpack-python-1.0.2-py37hff7bd54_1",
+    "name": "msgpack-python",
+    "platform": null,
+    "version": "1.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "multipledispatch-0.6.0-py37_0",
+    "name": "multipledispatch",
+    "platform": null,
+    "version": "0.6.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "mypy_extensions-0.4.3-py37_0",
+    "name": "mypy_extensions",
+    "platform": null,
+    "version": "0.4.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "nbclassic-0.2.6-pyhd3eb1b0_0",
+    "name": "nbclassic",
+    "platform": null,
+    "version": "0.2.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "nbclient-0.5.3-pyhd3eb1b0_0",
+    "name": "nbclient",
+    "platform": null,
+    "version": "0.5.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "nbconvert-6.0.7-py37_0",
+    "name": "nbconvert",
+    "platform": null,
+    "version": "6.0.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "nbformat-5.1.3-pyhd3eb1b0_0",
+    "name": "nbformat",
+    "platform": null,
+    "version": "5.1.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "he6710b0_1",
+    "channel": "defaults",
+    "dist_name": "ncurses-6.2-he6710b0_1",
+    "name": "ncurses",
+    "platform": null,
+    "version": "6.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "nest-asyncio-1.5.1-pyhd3eb1b0_0",
+    "name": "nest-asyncio",
+    "platform": null,
+    "version": "1.5.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "networkx-2.5-py_0",
+    "name": "networkx",
+    "platform": null,
+    "version": "2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "hff7bd54_1",
+    "channel": "defaults",
+    "dist_name": "ninja-1.10.2-hff7bd54_1",
+    "name": "ninja",
+    "platform": null,
+    "version": "1.10.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "nltk-3.6.1-pyhd3eb1b0_0",
+    "name": "nltk",
+    "platform": null,
+    "version": "3.6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1006,
+    "build_string": "pyhd3eb1b0_1006",
+    "channel": "defaults",
+    "dist_name": "nose-1.3.7-pyhd3eb1b0_1006",
+    "name": "nose",
+    "platform": null,
+    "version": "1.3.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "notebook-6.3.0-py37h06a4308_0",
+    "name": "notebook",
+    "platform": null,
+    "version": "6.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h22e1b3c_1",
+    "channel": "defaults",
+    "dist_name": "numexpr-2.7.3-py37h22e1b3c_1",
+    "name": "numexpr",
+    "platform": null,
+    "version": "2.7.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h93e21f0_0",
+    "channel": "defaults",
+    "dist_name": "numpy-1.20.1-py37h93e21f0_0",
+    "name": "numpy",
+    "platform": null,
+    "version": "1.20.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h7d8b39e_0",
+    "channel": "defaults",
+    "dist_name": "numpy-base-1.20.1-py37h7d8b39e_0",
+    "name": "numpy-base",
+    "platform": null,
+    "version": "1.20.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "numpydoc-1.1.0-pyhd3eb1b0_1",
+    "name": "numpydoc",
+    "platform": null,
+    "version": "1.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "olefile-0.46-py37_0",
+    "name": "olefile",
+    "platform": null,
+    "version": "0.46"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "openpyxl-3.0.7-pyhd3eb1b0_0",
+    "name": "openpyxl",
+    "platform": null,
+    "version": "3.0.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "openssl-1.1.1k-h27cfd23_0",
+    "name": "openssl",
+    "platform": null,
+    "version": "1.1.1k"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "packaging-20.9-pyhd3eb1b0_0",
+    "name": "packaging",
+    "platform": null,
+    "version": "20.9"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h2531618_0",
+    "channel": "defaults",
+    "dist_name": "pandas-1.2.4-py37h2531618_0",
+    "name": "pandas",
+    "platform": null,
+    "version": "1.2.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "pandoc-2.12-h06a4308_0",
+    "name": "pandoc",
+    "platform": null,
+    "version": "2.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "pandocfilters-1.4.3-py37h06a4308_1",
+    "name": "pandocfilters",
+    "platform": null,
+    "version": "1.4.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hd140c19_0",
+    "channel": "defaults",
+    "dist_name": "pango-1.45.3-hd140c19_0",
+    "name": "pango",
+    "platform": null,
+    "version": "1.45.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "parso-0.7.0-py_0",
+    "name": "parso",
+    "platform": null,
+    "version": "0.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "partd-1.2.0-pyhd3eb1b0_0",
+    "name": "partd",
+    "platform": null,
+    "version": "1.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h2531618_1",
+    "channel": "defaults",
+    "dist_name": "patchelf-0.12-h2531618_1",
+    "name": "patchelf",
+    "platform": null,
+    "version": "0.12"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "path-15.1.2-py37h06a4308_0",
+    "name": "path",
+    "platform": null,
+    "version": "15.1.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "defaults",
+    "dist_name": "path.py-12.5.0-0",
+    "name": "path.py",
+    "platform": null,
+    "version": "12.5.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h06a4308_2",
+    "channel": "defaults",
+    "dist_name": "pathlib2-2.3.5-py37h06a4308_2",
+    "name": "pathlib2",
+    "platform": null,
+    "version": "2.3.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "pathspec-0.7.0-py_0",
+    "name": "pathspec",
+    "platform": null,
+    "version": "0.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "patsy-0.5.1-py37_0",
+    "name": "patsy",
+    "platform": null,
+    "version": "0.5.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "he6710b0_0",
+    "channel": "defaults",
+    "dist_name": "pcre-8.44-he6710b0_0",
+    "name": "pcre",
+    "platform": null,
+    "version": "8.44"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "pep8-1.7.1-py37_0",
+    "name": "pep8",
+    "platform": null,
+    "version": "1.7.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 3,
+    "build_string": "pyhd3eb1b0_3",
+    "channel": "defaults",
+    "dist_name": "pexpect-4.8.0-pyhd3eb1b0_3",
+    "name": "pexpect",
+    "platform": null,
+    "version": "4.8.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1003,
+    "build_string": "pyhd3eb1b0_1003",
+    "channel": "defaults",
+    "dist_name": "pickleshare-0.7.5-pyhd3eb1b0_1003",
+    "name": "pickleshare",
+    "platform": null,
+    "version": "0.7.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37he98fc37_0",
+    "channel": "defaults",
+    "dist_name": "pillow-8.2.0-py37he98fc37_0",
+    "name": "pillow",
+    "platform": null,
+    "version": "8.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "pip-21.0.1-py37h06a4308_0",
+    "name": "pip",
+    "platform": null,
+    "version": "21.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "pixman-0.40.0-h7b6447c_0",
+    "name": "pixman",
+    "platform": null,
+    "version": "0.40.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "pkginfo-1.7.0-py37h06a4308_0",
+    "name": "pkginfo",
+    "platform": null,
+    "version": "1.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "pluggy-0.13.1-py37h06a4308_0",
+    "name": "pluggy",
+    "platform": null,
+    "version": "0.13.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "ply-3.11-py37_0",
+    "name": "ply",
+    "platform": null,
+    "version": "3.11"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "prometheus_client-0.10.1-pyhd3eb1b0_0",
+    "name": "prometheus_client",
+    "platform": null,
+    "version": "0.10.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyh06a4308_0",
+    "channel": "defaults",
+    "dist_name": "prompt-toolkit-3.0.17-pyh06a4308_0",
+    "name": "prompt-toolkit",
+    "platform": null,
+    "version": "3.0.17"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "prompt_toolkit-3.0.17-hd3eb1b0_0",
+    "name": "prompt_toolkit",
+    "platform": null,
+    "version": "3.0.17"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "psutil-5.8.0-py37h27cfd23_1",
+    "name": "psutil",
+    "platform": null,
+    "version": "5.8.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "pyhd3eb1b0_2",
+    "channel": "defaults",
+    "dist_name": "ptyprocess-0.7.0-pyhd3eb1b0_2",
+    "name": "ptyprocess",
+    "platform": null,
+    "version": "0.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "py-1.10.0-pyhd3eb1b0_0",
+    "name": "py",
+    "platform": null,
+    "version": "1.10.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h403a769_0",
+    "channel": "defaults",
+    "dist_name": "py-lief-0.10.1-py37h403a769_0",
+    "name": "py-lief",
+    "platform": null,
+    "version": "0.10.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pycodestyle-2.6.0-pyhd3eb1b0_0",
+    "name": "pycodestyle",
+    "platform": null,
+    "version": "2.6.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "pycosat-0.6.3-py37h27cfd23_0",
+    "name": "pycosat",
+    "platform": null,
+    "version": "0.6.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py_2",
+    "channel": "defaults",
+    "dist_name": "pycparser-2.20-py_2",
+    "name": "pycparser",
+    "platform": null,
+    "version": "2.20"
+  },
+  {
+    "base_url": null,
+    "build_number": 10,
+    "build_string": "py37h7b6447c_10",
+    "channel": "defaults",
+    "dist_name": "pycrypto-2.6.1-py37h7b6447c_10",
+    "name": "pycrypto",
+    "platform": null,
+    "version": "2.6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h1ba5d50_0",
+    "channel": "defaults",
+    "dist_name": "pycurl-7.43.0.6-py37h1ba5d50_0",
+    "name": "pycurl",
+    "platform": null,
+    "version": "7.43.0.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pydocstyle-6.0.0-pyhd3eb1b0_0",
+    "name": "pydocstyle",
+    "platform": null,
+    "version": "6.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "pyerfa-1.7.3-py37h27cfd23_0",
+    "name": "pyerfa",
+    "platform": null,
+    "version": "1.7.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pyflakes-2.2.0-pyhd3eb1b0_0",
+    "name": "pyflakes",
+    "platform": null,
+    "version": "2.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pygments-2.8.1-pyhd3eb1b0_0",
+    "name": "pygments",
+    "platform": null,
+    "version": "2.8.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "pylint-2.7.4-py37h06a4308_1",
+    "name": "pylint",
+    "platform": null,
+    "version": "2.7.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pyls-black-0.4.6-hd3eb1b0_0",
+    "name": "pyls-black",
+    "platform": null,
+    "version": "0.4.6"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pyls-spyder-0.3.2-pyhd3eb1b0_0",
+    "name": "pyls-spyder",
+    "platform": null,
+    "version": "0.3.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37he6710b0_0",
+    "channel": "defaults",
+    "dist_name": "pyodbc-4.0.30-py37he6710b0_0",
+    "name": "pyodbc",
+    "platform": null,
+    "version": "4.0.30"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "pyopenssl-20.0.1-pyhd3eb1b0_1",
+    "name": "pyopenssl",
+    "platform": null,
+    "version": "20.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pyparsing-2.4.7-pyhd3eb1b0_0",
+    "name": "pyparsing",
+    "platform": null,
+    "version": "2.4.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h05f1152_2",
+    "channel": "defaults",
+    "dist_name": "pyqt-5.9.2-py37h05f1152_2",
+    "name": "pyqt",
+    "platform": null,
+    "version": "5.9.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "pyrsistent-0.17.3-py37h7b6447c_0",
+    "name": "pyrsistent",
+    "platform": null,
+    "version": "0.17.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "pysocks-1.7.1-py37_1",
+    "name": "pysocks",
+    "platform": null,
+    "version": "1.7.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h71ec239_0",
+    "channel": "defaults",
+    "dist_name": "pytables-3.6.1-py37h71ec239_0",
+    "name": "pytables",
+    "platform": null,
+    "version": "3.6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h06a4308_2",
+    "channel": "defaults",
+    "dist_name": "pytest-6.2.3-py37h06a4308_2",
+    "name": "pytest",
+    "platform": null,
+    "version": "6.2.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdb3f193_0",
+    "channel": "defaults",
+    "dist_name": "python-3.7.10-hdb3f193_0",
+    "name": "python",
+    "platform": null,
+    "version": "3.7.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "python-dateutil-2.8.1-pyhd3eb1b0_0",
+    "name": "python-dateutil",
+    "platform": null,
+    "version": "2.8.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "python-jsonrpc-server-0.4.0-py_0",
+    "name": "python-jsonrpc-server",
+    "platform": null,
+    "version": "0.4.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "python-language-server-0.36.2-pyhd3eb1b0_0",
+    "name": "python-language-server",
+    "platform": null,
+    "version": "0.36.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "python-libarchive-c-2.9-pyhd3eb1b0_1",
+    "name": "python-libarchive-c",
+    "platform": null,
+    "version": "2.9"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py3.7_cuda11.0.221_cudnn8.0.3_0",
+    "channel": "pytorch",
+    "dist_name": "pytorch-1.7.0-py3.7_cuda11.0.221_cudnn8.0.3_0",
+    "name": "pytorch",
+    "platform": null,
+    "version": "1.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pytz-2021.1-pyhd3eb1b0_0",
+    "name": "pytz",
+    "platform": null,
+    "version": "2021.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37h7b6447c_2",
+    "channel": "defaults",
+    "dist_name": "pywavelets-1.1.1-py37h7b6447c_2",
+    "name": "pywavelets",
+    "platform": null,
+    "version": "1.1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "pyxdg-0.27-pyhd3eb1b0_0",
+    "name": "pyxdg",
+    "platform": null,
+    "version": "0.27"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "pyyaml-5.4.1-py37h27cfd23_1",
+    "name": "pyyaml",
+    "platform": null,
+    "version": "5.4.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h2531618_1",
+    "channel": "defaults",
+    "dist_name": "pyzmq-20.0.0-py37h2531618_1",
+    "name": "pyzmq",
+    "platform": null,
+    "version": "20.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "qdarkstyle-2.8.1-py_0",
+    "name": "qdarkstyle",
+    "platform": null,
+    "version": "2.8.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "h5867ecd_1",
+    "channel": "defaults",
+    "dist_name": "qt-5.9.7-h5867ecd_1",
+    "name": "qt",
+    "platform": null,
+    "version": "5.9.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "qtawesome-1.0.2-pyhd3eb1b0_0",
+    "name": "qtawesome",
+    "platform": null,
+    "version": "1.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "qtconsole-5.0.3-pyhd3eb1b0_0",
+    "name": "qtconsole",
+    "platform": null,
+    "version": "5.0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "qtpy-1.9.0-py_0",
+    "name": "qtpy",
+    "platform": null,
+    "version": "1.9.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "readline-8.1-h27cfd23_0",
+    "name": "readline",
+    "platform": null,
+    "version": "8.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "regex-2021.4.4-py37h27cfd23_0",
+    "name": "regex",
+    "platform": null,
+    "version": "2021.4.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "requests-2.25.1-pyhd3eb1b0_0",
+    "name": "requests",
+    "platform": null,
+    "version": "2.25.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "defaults",
+    "dist_name": "ripgrep-12.1.1-0",
+    "name": "ripgrep",
+    "platform": null,
+    "version": "12.1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "rope-0.18.0-py_0",
+    "name": "rope",
+    "platform": null,
+    "version": "0.18.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "rtree-0.9.7-py37h06a4308_1",
+    "name": "rtree",
+    "platform": null,
+    "version": "0.9.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "ruamel_yaml-0.15.100-py37h27cfd23_0",
+    "name": "ruamel_yaml",
+    "platform": null,
+    "version": "0.15.100"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37ha9443f7_0",
+    "channel": "defaults",
+    "dist_name": "scikit-image-0.18.1-py37ha9443f7_0",
+    "name": "scikit-image",
+    "platform": null,
+    "version": "0.18.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37ha9443f7_0",
+    "channel": "defaults",
+    "dist_name": "scikit-learn-0.24.1-py37ha9443f7_0",
+    "name": "scikit-learn",
+    "platform": null,
+    "version": "0.24.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37had2a1c9_1",
+    "channel": "defaults",
+    "dist_name": "scipy-1.6.2-py37had2a1c9_1",
+    "name": "scipy",
+    "platform": null,
+    "version": "1.6.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "seaborn-0.11.1-pyhd3eb1b0_0",
+    "name": "seaborn",
+    "platform": null,
+    "version": "0.11.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "secretstorage-3.3.1-py37h06a4308_0",
+    "name": "secretstorage",
+    "platform": null,
+    "version": "3.3.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "send2trash-1.5.0-pyhd3eb1b0_1",
+    "name": "send2trash",
+    "platform": null,
+    "version": "1.5.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "setuptools-52.0.0-py37h06a4308_0",
+    "name": "setuptools",
+    "platform": null,
+    "version": "52.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37_2",
+    "channel": "defaults",
+    "dist_name": "simplegeneric-0.8.1-py37_2",
+    "name": "simplegeneric",
+    "platform": null,
+    "version": "0.8.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1001,
+    "build_string": "pyhd3eb1b0_1001",
+    "channel": "defaults",
+    "dist_name": "singledispatch-3.6.1-pyhd3eb1b0_1001",
+    "name": "singledispatch",
+    "platform": null,
+    "version": "3.6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37hf484d3e_0",
+    "channel": "defaults",
+    "dist_name": "sip-4.19.8-py37hf484d3e_0",
+    "name": "sip",
+    "platform": null,
+    "version": "4.19.8"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "six-1.15.0-py37h06a4308_0",
+    "name": "six",
+    "platform": null,
+    "version": "1.15.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "sniffio-1.2.0-py37h06a4308_1",
+    "name": "sniffio",
+    "platform": null,
+    "version": "1.2.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "snowballstemmer-2.1.0-pyhd3eb1b0_0",
+    "name": "snowballstemmer",
+    "platform": null,
+    "version": "2.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sortedcollections-2.1.0-pyhd3eb1b0_0",
+    "name": "sortedcollections",
+    "platform": null,
+    "version": "2.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sortedcontainers-2.3.0-pyhd3eb1b0_0",
+    "name": "sortedcontainers",
+    "platform": null,
+    "version": "2.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "soupsieve-2.2.1-pyhd3eb1b0_0",
+    "name": "soupsieve",
+    "platform": null,
+    "version": "2.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinx-3.5.3-pyhd3eb1b0_0",
+    "name": "sphinx",
+    "platform": null,
+    "version": "3.5.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-1.0-py37_1",
+    "name": "sphinxcontrib",
+    "platform": null,
+    "version": "1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-applehelp-1.0.2-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-applehelp",
+    "platform": null,
+    "version": "1.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-devhelp-1.0.2-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-devhelp",
+    "platform": null,
+    "version": "1.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-htmlhelp-1.0.3-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-htmlhelp",
+    "platform": null,
+    "version": "1.0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-jsmath-1.0.1-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-jsmath",
+    "platform": null,
+    "version": "1.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-qthelp-1.0.3-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-qthelp",
+    "platform": null,
+    "version": "1.0.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-serializinghtml-1.1.4-pyhd3eb1b0_0",
+    "name": "sphinxcontrib-serializinghtml",
+    "platform": null,
+    "version": "1.1.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "sphinxcontrib-websupport-1.2.4-py_0",
+    "name": "sphinxcontrib-websupport",
+    "platform": null,
+    "version": "1.2.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "spyder-4.2.5-py37h06a4308_0",
+    "name": "spyder",
+    "platform": null,
+    "version": "4.2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "spyder-kernels-1.10.2-py37h06a4308_0",
+    "name": "spyder-kernels",
+    "platform": null,
+    "version": "1.10.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "sqlalchemy-1.4.7-py37h27cfd23_0",
+    "name": "sqlalchemy",
+    "platform": null,
+    "version": "1.4.7"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hdfb4753_0",
+    "channel": "defaults",
+    "dist_name": "sqlite-3.35.4-hdfb4753_0",
+    "name": "sqlite",
+    "platform": null,
+    "version": "3.35.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "statsmodels-0.12.2-py37h27cfd23_0",
+    "name": "statsmodels",
+    "platform": null,
+    "version": "0.12.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "sympy-1.8-py37h06a4308_0",
+    "name": "sympy",
+    "platform": null,
+    "version": "1.8"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "tblib-1.7.0-py_0",
+    "name": "tblib",
+    "platform": null,
+    "version": "1.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "terminado-0.9.4-py37h06a4308_0",
+    "name": "terminado",
+    "platform": null,
+    "version": "0.9.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "testpath-0.4.4-pyhd3eb1b0_0",
+    "name": "testpath",
+    "platform": null,
+    "version": "0.4.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "textdistance-4.2.1-pyhd3eb1b0_0",
+    "name": "textdistance",
+    "platform": null,
+    "version": "4.2.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyh5ca1d4c_0",
+    "channel": "defaults",
+    "dist_name": "threadpoolctl-2.1.0-pyh5ca1d4c_0",
+    "name": "threadpoolctl",
+    "platform": null,
+    "version": "2.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "three-merge-0.1.1-pyhd3eb1b0_0",
+    "name": "three-merge",
+    "platform": null,
+    "version": "0.1.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 2,
+    "build_string": "py37hdd07704_2",
+    "channel": "defaults",
+    "dist_name": "tifffile-2020.10.1-py37hdd07704_2",
+    "name": "tifffile",
+    "platform": null,
+    "version": "2020.10.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "hbc83047_0",
+    "channel": "defaults",
+    "dist_name": "tk-8.6.10-hbc83047_0",
+    "name": "tk",
+    "platform": null,
+    "version": "8.6.10"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "toml-0.10.2-pyhd3eb1b0_0",
+    "name": "toml",
+    "platform": null,
+    "version": "0.10.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "toolz-0.11.1-pyhd3eb1b0_0",
+    "name": "toolz",
+    "platform": null,
+    "version": "0.11.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 37,
+    "build_string": "py37",
+    "channel": "pytorch",
+    "dist_name": "torchaudio-0.7.0-py37",
+    "name": "torchaudio",
+    "platform": null,
+    "version": "0.7.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 110,
+    "build_string": "py37_cu110",
+    "channel": "pytorch",
+    "dist_name": "torchvision-0.8.0-py37_cu110",
+    "name": "torchvision",
+    "platform": null,
+    "version": "0.8.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "tornado-6.1-py37h27cfd23_0",
+    "name": "tornado",
+    "platform": null,
+    "version": "6.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "pyhd3eb1b0_1",
+    "channel": "defaults",
+    "dist_name": "tqdm-4.59.0-pyhd3eb1b0_1",
+    "name": "tqdm",
+    "platform": null,
+    "version": "4.59.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "traitlets-5.0.5-pyhd3eb1b0_0",
+    "name": "traitlets",
+    "platform": null,
+    "version": "5.0.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h27cfd23_1",
+    "channel": "defaults",
+    "dist_name": "typed-ast-1.4.2-py37h27cfd23_1",
+    "name": "typed-ast",
+    "platform": null,
+    "version": "1.4.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyha847dfd_0",
+    "channel": "defaults",
+    "dist_name": "typing_extensions-3.7.4.3-pyha847dfd_0",
+    "name": "typing_extensions",
+    "platform": null,
+    "version": "3.7.4.3"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h2531618_0",
+    "channel": "defaults",
+    "dist_name": "ujson-4.0.2-py37h2531618_0",
+    "name": "ujson",
+    "platform": null,
+    "version": "4.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "unicodecsv-0.14.1-py37_0",
+    "name": "unicodecsv",
+    "platform": null,
+    "version": "0.14.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "unixodbc-2.3.9-h7b6447c_0",
+    "name": "unixodbc",
+    "platform": null,
+    "version": "2.3.9"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "urllib3-1.26.4-pyhd3eb1b0_0",
+    "name": "urllib3",
+    "platform": null,
+    "version": "1.26.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h06a4308_1",
+    "channel": "defaults",
+    "dist_name": "watchdog-1.0.2-py37h06a4308_1",
+    "name": "watchdog",
+    "platform": null,
+    "version": "1.0.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "defaults",
+    "dist_name": "wcwidth-0.2.5-py_0",
+    "name": "wcwidth",
+    "platform": null,
+    "version": "0.2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "webencodings-0.5.1-py37_1",
+    "name": "webencodings",
+    "platform": null,
+    "version": "0.5.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "werkzeug-1.0.1-pyhd3eb1b0_0",
+    "name": "werkzeug",
+    "platform": null,
+    "version": "1.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "wheel-0.36.2-pyhd3eb1b0_0",
+    "name": "wheel",
+    "platform": null,
+    "version": "0.36.2"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "widgetsnbextension-3.5.1-py37_0",
+    "name": "widgetsnbextension",
+    "platform": null,
+    "version": "3.5.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37h7b6447c_1",
+    "channel": "defaults",
+    "dist_name": "wrapt-1.12.1-py37h7b6447c_1",
+    "name": "wrapt",
+    "platform": null,
+    "version": "1.12.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h06a4308_0",
+    "channel": "defaults",
+    "dist_name": "wurlitzer-2.1.0-py37h06a4308_0",
+    "name": "wurlitzer",
+    "platform": null,
+    "version": "2.1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "xlrd-2.0.1-pyhd3eb1b0_0",
+    "name": "xlrd",
+    "platform": null,
+    "version": "2.0.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "xlsxwriter-1.3.8-pyhd3eb1b0_0",
+    "name": "xlsxwriter",
+    "platform": null,
+    "version": "1.3.8"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "xlwt-1.3.0-py37_0",
+    "name": "xlwt",
+    "platform": null,
+    "version": "1.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "xz-5.2.5-h7b6447c_0",
+    "name": "xz",
+    "platform": null,
+    "version": "5.2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h7b6447c_0",
+    "channel": "defaults",
+    "dist_name": "yaml-0.2.5-h7b6447c_0",
+    "name": "yaml",
+    "platform": null,
+    "version": "0.2.5"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "yapf-0.31.0-pyhd3eb1b0_0",
+    "name": "yapf",
+    "platform": null,
+    "version": "0.31.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h2531618_0",
+    "channel": "defaults",
+    "dist_name": "zeromq-4.3.4-h2531618_0",
+    "name": "zeromq",
+    "platform": null,
+    "version": "4.3.4"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "zict-2.0.0-pyhd3eb1b0_0",
+    "name": "zict",
+    "platform": null,
+    "version": "2.0.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "pyhd3eb1b0_0",
+    "channel": "defaults",
+    "dist_name": "zipp-3.4.1-pyhd3eb1b0_0",
+    "name": "zipp",
+    "platform": null,
+    "version": "3.4.1"
+  },
+  {
+    "base_url": null,
+    "build_number": 3,
+    "build_string": "h7b6447c_3",
+    "channel": "defaults",
+    "dist_name": "zlib-1.2.11-h7b6447c_3",
+    "name": "zlib",
+    "platform": null,
+    "version": "1.2.11"
+  },
+  {
+    "base_url": null,
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "defaults",
+    "dist_name": "zope-1.0-py37_1",
+    "name": "zope",
+    "platform": null,
+    "version": "1.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "defaults",
+    "dist_name": "zope.event-4.5.0-py37_0",
+    "name": "zope.event",
+    "platform": null,
+    "version": "4.5.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "py37h27cfd23_0",
+    "channel": "defaults",
+    "dist_name": "zope.interface-5.3.0-py37h27cfd23_0",
+    "name": "zope.interface",
+    "platform": null,
+    "version": "5.3.0"
+  },
+  {
+    "base_url": null,
+    "build_number": 0,
+    "build_string": "h9ceee32_0",
+    "channel": "defaults",
+    "dist_name": "zstd-1.4.5-h9ceee32_0",
+    "name": "zstd",
+    "platform": null,
+    "version": "1.4.5"
+  }
+]
