@@ -55,16 +55,15 @@ A full list of the conda enviroment packages can be found in `full_env.txt`, as 
   ```
   datasets
   ├──raw  
-  └──pre
-      └──GT+ST                      (For data configuration GT+ST)
-          └── DIC-C2DH-HeLa         (Name of the dataset)
-              ├── 01                (Frames with ST annotations for the training set: normalized image\tertiary target pairs in npy format)
-              ├── 01_GT\SEG         (Original instance masks in tiff format for performance evaluation on the training set)
-              ├── 01_RES            (Placeholder folder to write evaluation result masks)
-              ├── 02                (Frames with GT annotations for the validation set: normalized image\tertiary target pairs in npy format)
-              ├── 02_GT             (Original instance masks in tiff format for performance evaluation on the validation set)
-              ├── 02_RES            (Placeholder folder to write evaluation result masks)
-              └── sample_pairs.png  (Randomly picked frames for visualization)
+  └──pre\GT+ST                  (For data configuration GT+ST)                            
+      └── DIC-C2DH-HeLa         (Name of the dataset)
+          ├── 01                (Frames with ST annotations for the training set: normalized image\tertiary target pairs in npy format)
+          ├── 01_GT\SEG         (Original instance masks in tiff format for performance evaluation on the training set)
+          ├── 01_RES            (Placeholder folder to write evaluation result masks)
+          ├── 02                (Frames with GT annotations for the validation set: normalized image\tertiary target pairs in npy format)
+          ├── 02_GT\SEG         (Original instance masks in tiff format for performance evaluation on the validation set)
+          ├── 02_RES            (Placeholder folder to write evaluation result masks)
+          └── sample_pairs.png  (Randomly picked frames for visualization)
   ```  
 - Normalized cell images and tertiary training targets will be written under
 - **Note**: only scripts for GT+ST data configuration is included. Others can be obtained with minor modifications.
