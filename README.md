@@ -10,8 +10,7 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 - [x] Have a cup of coffee
 
 ### For CTC participation: 
-- [ ] Scripts for image pre-processing
-- [ ] Scripts for tertiary training targets
+- [ ] Scripts for image pre-processing and tertiary training targets
 - [ ] Network implementation 
 - [ ] Scripts for training 6 data configurations
 - [ ] Scripts for inference and tracking
@@ -31,6 +30,24 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 - Additional dependencies: imageio(2.8.0), numpy(1.18.4), scipy(1.4.1), pillow(8.1.0), libtiff(4.2.0)
 
 A full list of the conda enviroment packages can be found in `full_env.txt`, as output by `conda list --json`.
+
+## To use current repo
+### Image preprocessing and generate tertiary training targets
+- Download and unzip datasets from CTC website [Link](http://celltrackingchallenge.net/2d-datasets/)
+- Place unzipped training sets under `datasets\raw`(e.g. DIC-C2DH-HeLa), and it should have the following folder structure
+```
+datasets
+├──raw
+│   └── DIC-C2DH-HeLa   (Name of the dataset)
+│       ├── 01          (Raw images for video sequence 01)
+│       ├── 01_ST       (ST annotations for video sequence 01)
+│       ├── 01_GT       (GT annotations for video sequence 01)
+│       ├── 02          (Raw images for video sequence 02)
+│       ├── 02_ST       (ST annotations for video sequence 02)
+│       └── 02_GT       (GT annotations for video sequence 02)
+└──pre
+```    
+
 
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
