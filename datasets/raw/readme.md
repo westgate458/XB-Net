@@ -2,7 +2,7 @@ Put training set images here.
 
 Example: 
 
-After unzip DIC-C2DH-HeLa.zip from CTC website [Link](http://celltrackingchallenge.net/2d-datasets/)
+After unzipping DIC-C2DH-HeLa.zip from CTC website [Link](http://celltrackingchallenge.net/2d-datasets/)
 it should have the following folder structure
 
 ```
