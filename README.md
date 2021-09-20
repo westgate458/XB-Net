@@ -34,20 +34,40 @@ A full list of the conda enviroment packages can be found in `full_env.txt`, as 
 ## To use current repo
 ### Image preprocessing and generate tertiary training targets
 - Download and unzip datasets from CTC website [Link](http://celltrackingchallenge.net/2d-datasets/)
-- Place unzipped training sets under `datasets\raw`(e.g. DIC-C2DH-HeLa), and it should have the following folder structure
-```
-datasets
-├──raw
-│   └── DIC-C2DH-HeLa   (Name of the dataset)
-│       ├── 01          (Raw images for video sequence 01)
-│       ├── 01_ST       (ST annotations for video sequence 01)
-│       ├── 01_GT       (GT annotations for video sequence 01)
-│       ├── 02          (Raw images for video sequence 02)
-│       ├── 02_ST       (ST annotations for video sequence 02)
-│       └── 02_GT       (GT annotations for video sequence 02)
-└──pre
-```    
-
+- Place unzipped training sets under `datasets\raw\[dataset_name]`, and it should have the following folder structure (e.g. DIC-C2DH-HeLa)
+  ```
+  datasets
+  ├──raw
+  │   └── DIC-C2DH-HeLa   (Name of the dataset)
+  │       ├── 01          (Raw images for video sequence 01)
+  │       ├── 01_ST       (ST annotations for video sequence 01)
+  │       ├── 01_GT       (GT annotations for video sequence 01)
+  │       ├── 02          (Raw images for video sequence 02)
+  │       ├── 02_ST       (ST annotations for video sequence 02)
+  │       └── 02_GT       (GT annotations for video sequence 02)
+  └──pre
+  ```    
+- Under current dir, run python scripts for 2D or 3D datasets by `datasets\pre\[dataset_name]`
+  ```
+  python imgPre_2D_GT+ST.py DIC-C2DH-HeLa
+  ```
+- Normalized cell images and tertiary training targets will be written under
+  ```
+  datasets
+  ├──raw  
+  └──pre
+      └──GT+ST                      (For data configuration GT+ST)
+          └── DIC-C2DH-HeLa         (Name of the dataset)
+              ├── 01                (Frames with ST annotations for the training set: normalized image\tertiary target pairs in npy format)
+              ├── 01_GT\SEG         (Original instance masks in tiff format for performance evaluation on the training set)
+              ├── 01_RES            (Placeholder folder to write evaluation result masks)
+              ├── 02                (Frames with GT annotations for the validation set: normalized image\tertiary target pairs in npy format)
+              ├── 02_GT             (Original instance masks in tiff format for performance evaluation on the validation set)
+              ├── 02_RES            (Placeholder folder to write evaluation result masks)
+              └── sample_pairs.png  (Randomly picked frames for visualization)
+  ```  
+- Normalized cell images and tertiary training targets will be written under
+- **Note**: only scripts for GT+ST data configuration is included. Others can be obtained with minor modifications.
 
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
