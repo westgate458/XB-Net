@@ -139,7 +139,13 @@ print('# of validation pairs: ', N_validation, 'range: ', img_validation.min(), 
 print('# of SEGs:', len(glob.glob(os.path.join(valid_GT_dir,'*.tif'))),len(glob.glob(os.path.join(valid_RS_dir,'*.tif'))))
 print('eg # %d'%idx)
 
-plt.figure(figsize=[15,10])
+seg = np.asarray(imageio.volread(os.path.join(valid_GT_dir,'man_seg%0.3d.tif'%idx)), dtype=np.uint16)
+seg[0,0] = 90
+seg_clr = clr.label2rgb(seg, image=None, colors=None,
+                        alpha=0.3, bg_label=0, bg_color=(0, 0, 0))
+
+plt.figure(figsize=[10,10])
+
 plt.subplot(2,2,1)
 plt.imshow(img_training[0,:,:])
 plt.title('Training image')
@@ -153,8 +159,9 @@ plt.imshow(img_validation[0,:,:])
 plt.title('Validation image')
 
 plt.subplot(2,2,4)
-plt.imshow(lbl_validation)
-plt.title('Validation label')
+plt.imshow(seg_clr)
+plt.title('Validation mask')
 
-plt.savefig(os.path.join(out_dir,'sample_pairs.png'),dpi=200)
+plt.tight_layout()
+plt.savefig(os.path.join(out_dir,'sample_pairs.png'),dpi=200, transparent=False)
 plt.show()
