@@ -11,8 +11,8 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 
 ### For CTC participation: 
 - [x] Scripts for image pre-processing and tertiary training targets
-- [ ] Network implementation 
-- [ ] Scripts for training
+- [x] Network implementation 
+- [x] Scripts for training
 - [ ] Scripts for inference and tracking
 
 ### For XB-Net manuscript: 
@@ -104,7 +104,7 @@ A full list of the conda environment packages can be found in `full_env.txt`, as
 - Training results are under the folder `./datasets/pre/GT+ST/train_demo`
   - `checkpoint.pth`: training states for optimizer, network, etc. used for resuming training.
   - `loss_history.npy`: loss history, validation IoU information, etc.
-  - `trained_model.pth`: best model with the best averaged IoU across datasets, used for later inferencing.
+  - `trained_model.pth`: best model with the highest averaged IoU across datasets, used for later inferencing.
 
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
