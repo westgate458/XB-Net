@@ -71,6 +71,41 @@ A full list of the conda environment packages can be found in `full_env.txt`, as
   ![sample_pairs](/pics/sample_pairs.png)
 - **Note**: only scripts for GT+ST data configuration is included. Others can be obtained with minor modifications.
 
+### Training models
+- Under current directory, run command
+  ```
+  python -u train_model.py
+  ```
+- Current training script uses two datasets as example: `DIC-C2DH-HeLa` and `Fluo-N3DH-CHO`
+- Successfull launching should result in printouts similar to
+  ```
+  Result DIR =  ./datasets/pre/GT+ST/train_demo
+  Tesla V100-PCIE-32GB  
+  Training 2 cases.
+  case result dir: ./datasets/pre/GT+ST/train_demo/DIC-C2DH-HeLa
+  Training set: # samples: 150 , Image & target sizes: (1, 272, 272) (256, 256) , # batches: 19 , batchsize: 8
+  Validation set:  # samples: 18 , Image & target sizes: (1, 528, 528) (512, 512)
+
+  case result dir: ./datasets/pre/GT+ST/train_demo/Fluo-N3DH-CHO
+  Training set: # samples: 920 , Image & target sizes: (1, 272, 272) (256, 256) , # batches: 115 , batchsize: 8
+  Validation set:  # samples: 43 , Image & target sizes: (1, 464, 528) (443, 512)
+
+  Training settings: LR = 0.000100, weights = (1,10,5)
+  Start training from Epoch 0 towards Epoch 26000.
+  Best seg score so far: 0.0000 at Epoch -1.
+
+  Current RAM usage is 0002.72 MB; Peak was 0010.48 MB
+  Current GPU usage is 0046.19 MB; Peak was 0046.19 MB
+
+  [09/25 00:08:23] Itr: 00002, Time: ( 0:00:01.218137 , 0.61), GPU: (0232.76, 4383.96) MB, Loss: (1.2933, 0.0000), LR: 1.00E-04, Valid SEG: ( 0.0000 0.0000 ). Mean: 0.0000, Best: 0.0000 @ Itr 2.
+  [09/25 00:10:15] Itr: 00260, Time: ( 0:01:20.623416 , 0.31), GPU: (0232.76, 4524.44) MB, Loss: (0.4767, 0.0000), LR: 1.00E-04, 
+  [09/25 00:11:35] Itr: 00520, Time: ( 0:02:40.380476 , 0.31), GPU: (0232.76, 4524.44) MB, Loss: (0.4166, 0.0000), LR: 1.00E-04, 
+  ```
+- Training results are under the folder `./datasets/pre/GT+ST/train_demo`
+  - `checkpoint.pth`: training states for optimizer, network, etc. used for resuming training.
+  - `loss_history.npy`: loss history, validation IoU information, etc.
+  - `trained_model.pth`: best model with the best averaged IoU across datasets, used for later inferencing.
+
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
 2. Guo, T., Ardekani, A. M., & Vlachos, P. P. (2019). Microscale, scanning defocusing volumetric particle-tracking velocimetry. Experiments in Fluids, 60(6), 89. [Link](https://link.springer.com/article/10.1007/s00348-019-2731-4)
