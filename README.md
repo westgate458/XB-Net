@@ -12,7 +12,7 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 ### For CTC participation: 
 - [x] Scripts for image pre-processing and tertiary training targets
 - [ ] Network implementation 
-- [ ] Scripts for training 6 data configurations
+- [ ] Scripts for training
 - [ ] Scripts for inference and tracking
 
 ### For XB-Net manuscript: 
@@ -27,9 +27,10 @@ For information or to report bugs, please email [Tianqi Guo](https://www.linkedi
 - Python version: 3.7
 - Cuda version: 11.0.3
 - PyTorch version: 1.7.0
-- Additional dependencies: imageio(2.8.0), numpy(1.18.4), scipy(1.4.1), pillow(8.1.0), libtiff(4.2.0)
+- Other packages: imageio(2.8.0), numpy(1.18.4), scipy(1.4.1), pillow(8.1.0), libtiff(4.2.0)
+- Official evaluation tool: [download](http://celltrackingchallenge.net/evaluation-methodology/), unzip, place under `./eval` folder
 
-A full list of the conda enviroment packages can be found in `full_env.txt`, as output by `conda list --json`.
+A full list of the conda environment packages can be found in `full_env.txt`, as output by `conda list --json`.
 
 ## To use current repo
 ### Image preprocessing and generate tertiary training targets
