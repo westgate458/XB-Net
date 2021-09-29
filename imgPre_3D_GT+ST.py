@@ -1,3 +1,13 @@
+'''
+Author:
+Tianqi Guo 
+Yin Wang
+EISL-A @ Purdue University - School of Electrical and Computer Engineering
+Do not use for commercial purposes. All rights reserved.
+Contact:
+guo246@purdue.edu
+'''
+
 import os
 import sys
 import glob

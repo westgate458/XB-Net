@@ -1,3 +1,12 @@
+'''
+Author:
+Tianqi Guo 
+Yin Wang
+EISL-A @ Purdue University - School of Electrical and Computer Engineering
+Do not use for commercial purposes. All rights reserved.
+Contact:
+guo246@purdue.edu
+'''
 import math
 import torch
 import torch.nn as nn
