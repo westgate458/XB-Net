@@ -112,17 +112,17 @@ A full list of the conda environment packages can be found in `full_env.txt`, as
   python -u test_model.py path_to_weights path_to_imgs is_volume obj_min_size hole_min_size search_radius
   ```
 - Arguments:
-  - path_to_weights: trained weights in `*.pth` format
-  - path_to_imgs: raw test images in `*.tif` format
-  - is_volume: if current dataset is 3D (1 for yes, 0 for no)
-  - obj_min_size: objects smaller than this value will be ignored in tracking
-  - hole_min_size: holes within objects that are smaller will be filled 
-  - search_radius: maximum distance to search for matching cells in the next frame
+  - `path_to_weights`: trained weights in `*.pth` format
+  - `path_to_imgs`: raw test images in `*.tif` format
+  - `is_volume`: if current dataset is 3D (1 for yes, 0 for no)
+  - `obj_min_size`: objects smaller than this value will be ignored in tracking
+  - `hole_min_size`: holes within objects that are smaller will be filled 
+  - `search_radius`: maximum distance to search for matching cells in the next frame
 - Command example:
   ```
   python -u test_model.py ./trained_models/trained_model.pth ./dataset/raw/DIC-C2DH-HeLa/01 0 500 100 50
   ```
- - Resulting masks in `*tiff` format will be writted under `./test_results/` directory.
+ - Resulting masks in `*.tiff` format will be writted under `./test_results/` directory.
  
 ## References:
 1. Tianqi Guo, Yin Wang, Luis Solorio, and Jan P. Allebach (2021). Training a universal instance segmentation network for live cell images of various cell types and imaging modalities. (Manuscript in preparation)
