@@ -106,7 +106,7 @@ A full list of the conda environment packages can be found in `full_env.txt`, as
   - `loss_history.npy`: loss history, validation IoU information, etc.
   - `trained_model.pth`: best model with the highest averaged IoU across datasets, used for later inferencing.
 
-### Training models
+### Testing models
 - Under current directory, run command
   ```
   python -u test_model.py path_to_weights path_to_imgs is_volume obj_min_size hole_min_size search_radius
