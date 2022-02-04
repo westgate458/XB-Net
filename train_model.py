@@ -58,7 +58,7 @@ print(torch.cuda.get_device_name())
 device = 'cuda'
 print(sys.argv)
 
-cases = ['DIC-C2DH-HeLa','Fluo-N3DH-CHO']
+cases = ['DIC-C2DH-HeLa','Fluo-N3DH-CHO'] # change the names for the cases used for training
 
 
 N_cases = len(cases)
