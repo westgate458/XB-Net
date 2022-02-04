@@ -72,6 +72,11 @@ A full list of the conda environment packages can be found in `full_env.txt`, as
 - **Note**: only scripts for GT+ST data configuration is included. Others can be obtained with minor modifications.
 
 ### Training models
+- On Line 61 in the `train_model.py`, include the names of the cases you would like to use for training
+  ```
+  cases = ['DIC-C2DH-HeLa','Fluo-N3DH-CHO'] # change the names for the cases used for training
+  ```
+  The pre-processed images of those cases should be placed under `./datasets/pre/GT+ST/`
 - Under current directory, run command
   ```
   python -u train_model.py
